@@ -10,6 +10,7 @@ import (
 	"os"
 )
 
+// New Features
 // Application constants, defining host, port, and protocol.
 const (
 	connHost = "localhost"
